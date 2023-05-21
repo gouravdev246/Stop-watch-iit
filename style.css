@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+background: black;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 90px;
+}
+.timer {
+margin-top: 5%;
+text-align: center;
+
+}
+
+#timerDisplay {
+font-size: 200px;
+margin-bottom: 20px;
+color:white;
+}
+
+.buttons {
+margin-top: 20px;
+}
+
+button {
+margin-right: 10px;
+font-size: 25px;
+border-radius: 3px;
+background: transparent;
+text-decoration: none;
+border: none;
+color: #ffffff;
+font-weight: bolder;
+}
+
+button:hover{
+    font-weight: bolder;
+    
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+   
+}
